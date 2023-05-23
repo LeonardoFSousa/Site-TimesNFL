@@ -323,12 +323,11 @@ a {
     font-family: 'Zilla Slab', serif;
     font-size: large;
     color: black !important;
-    text-decoration: underline !important;
-    text-decoration-style: dashed !important;
-
 }
 
 .boxinsta a{
+    text-decoration: underline !important;
+    text-decoration-style: dashed !important;
     color: black !important;
 }
 
@@ -617,6 +616,8 @@ a {
 }
 
 .boxinsta a{
+    text-decoration: underline !important;
+    text-decoration-style: dashed !important;
     color: black !important;
 }
 
@@ -909,6 +910,8 @@ a {
 }
 
 .boxinsta a{
+    text-decoration: underline !important;
+    text-decoration-style: dashed !important;
     color: black !important;
 }
 
@@ -1201,6 +1204,8 @@ a {
 }
 
 .boxinsta a{
+    text-decoration: underline !important;
+    text-decoration-style: dashed !important;
     color: black !important;
 }
 
